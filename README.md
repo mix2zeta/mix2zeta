@@ -1,4 +1,4 @@
-### Hi there 👋
+![Profile](/image.png)
 
 <!--
 **mix2zeta/mix2zeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
